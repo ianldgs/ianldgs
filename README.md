@@ -14,6 +14,8 @@
 - TypeScript wizard
 - Git `rebase` wizard
 
+---
+
 ❤️
 
 - TypeScript
