@@ -1,4 +1,4 @@
-### I'm Ian 🤘
+## I'm Ian 🤘
 
 > I don't know how to do anything on computers. I know how to figure out how to do stuff on computers
 
@@ -13,3 +13,40 @@
 - Markdown lunatic
 - TypeScript wizard
 - Git `rebase` wizard
+
+❤️
+
+- TypeScript
+- Dart
+- ~~Rust~~
+- Kotlin
+- C#
+- sh
+- React
+- Stencil
+- Docker
+- Postgres
+- Mongo
+
+💔
+
+- JavaScript
+- Java
+- Angular
+- MySQL
+
+🤔
+
+- Go
+- ~~Python~~
+- Svelte
+- ~~Kubernetes~~
+
+😒
+
+- PHP
+- ~~Ruby~~
+- ~~C~~
+- ~~C++~~
+- ~~Vue~~
+- Oracle
