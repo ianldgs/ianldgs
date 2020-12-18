@@ -12,6 +12,7 @@
 - Modern technologies enthusiast
 - Markdown lunatic
 - TypeScript wizard
+- Autocomplete dependant
 - Git `rebase` wizard
 
 ---
