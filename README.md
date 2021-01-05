@@ -6,7 +6,7 @@
 - Italian
 - Father
 - Motorcycle addict
-- Full stack developer
+- (F|P)ull stack developer
 - Front-end developer
 - Back-end developer
 - Modern technologies enthusiast
