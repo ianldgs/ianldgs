@@ -17,10 +17,10 @@
 
 ---
 
-❤️ TypeScript, Dart, ~~Rust~~, Kotlin, C#, sh, React, Stencil, Docker, Postgres, Mongo
+❤️ TypeScript, Dart, ~~Rust~~, Kotlin, C#, sh, React, Stencil, Docker, Postgres, MongoDB, Kubernetes
 
 💔 JavaScript, Java, Angular, MySQL
 
-🤔 Go, ~~Python~~, Svelte, ~~Kubernetes~~
+🤔 Go, ~~Python~~, Svelte
 
 😒 PHP, ~~Ruby~~, ~~C~~, ~~C++~~, ~~Perl~~, ~~Vue~~, Oracle
